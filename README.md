@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey, I’m <strong>minionteechs</strong></h1>
-<h3 align="center">Smart Contract Developer • Security Researcher • Cyfrin Builder</h3>
+<h1 align="center"><strong>minionteechs</strong></h1>
+<h3 align="center">Smart Contract Developer | Security Researcher | Cyfrin Builder</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Smart_Contract_Engineer-%2320232a.svg?style=for-the-badge" />
@@ -10,46 +10,47 @@
 
 ---
 
-## 🧠 About Me
+## About
 
-- 🔥 Smart Contract Developer & Web3 Security Enthusiast  
-- 🛡️ Training & Building in the **Cyfrin ecosystem**  
-- 🧪 Passionate about **auditing**, fuzzing, invariant testing & secure DeFi design  
-- 🚀 Currently working on multi-project portfolio under the **minionteechs-web** namespace  
-- 🧩 Love clean architecture, test-driven development & security-by-design principles  
+- Smart Contract Developer with expertise in Web3 security and protocol design
+- Active member of the Cyfrin ecosystem
+- Specialized in smart contract auditing, fuzzing, invariant testing, and DeFi security
+- Developing a comprehensive portfolio of Web3 projects under the minionteechs-web organization
+- Committed to clean architecture, test-driven development, and security-by-design principles  
 
 ---
 
-## 🛠️ Tech & Tools
+## Technical Stack
 
-### **Smart Contract & Security**
+### Smart Contracts & Security
 <p>
   <img src="https://skillicons.dev/icons?i=solidity,foundry,git,github" />
 </p>
 
-### **Frontend (for dApps)**
+### Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript" />
 </p>
 
-### **Other**
+### Additional Tools
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,vscode" />
 </p>
 
 ---
 
-## 🧩 Current Projects (Under `minionteechs-web`)
+## Projects
 
-### 📌 **Smart Contracts**
-- 🔸 **Staking Protocol** — secure, tested, gas-optimized  
-- 🔸 **DAO Governance + Timelock**  
-- 🔸 **AMM DEX (Uniswap v1 logic)**  
-- 🔸 **Lending Protocol (AAVE-style)**  
+### Smart Contracts
+- **Staking Protocol** — Secure, audited, and gas-optimized implementation
+- **DAO Governance with Timelock** — Advanced governance framework
+- **AMM DEX** — Decentralized exchange with Uniswap v1 logic
+- **Lending Protocol** — AAVE-style lending protocol with risk management
 
-### 📌 **Audits**
-- 🔍 Publishing mock audits with PoCs, Foundry tests & risk classifications  
-- 💼 Aiming for security researcher / auditing roles  
+### Security Audits
+- Comprehensive smart contract audits with proof-of-concept exploits and Foundry test suites
+- Risk classification and detailed vulnerability analysis
+- Focus on building expertise in security research and protocol auditing  
 
 ---
 
@@ -62,22 +63,21 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect
+
+- **Email:** minionteechs@gmail.com
+- **X:** [@minionteechs](https://x.com/minionteechs)
+- **Cyfrin:** [@minionteechs](https://cyfrin.io)
+- **Discord:** @minion_tech
 
 <p>
   <a href="https://github.com/minionteechs-web">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add other socials if you want -->
 </p>
 
 ---
 
-## 🏆 Cyfrin Tag
+## Cyfrin Ecosystem
 
-**`@minionteechs`**  
-Proudly building in the Cyfrin ecosystem ⚡
-
----
-
-### ⭐ If you like my work, consider giving a star to one of my repos!
+Active contributor to the Cyfrin ecosystem ⚡
